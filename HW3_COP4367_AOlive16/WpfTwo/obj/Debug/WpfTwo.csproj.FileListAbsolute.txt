@@ -1,0 +1,13 @@
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\bin\Debug\WpfTwo.exe.config
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\bin\Debug\WpfTwo.exe
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\bin\Debug\WpfTwo.pdb
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\MainWindow.baml
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\MainWindow.g.cs
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\App.g.cs
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo_MarkupCompile.cache
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo.g.resources
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo.Properties.Resources.resources
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo.exe
+C:\Users\Andre\Desktop\work\to be added\HW3_COP4367_AOlive16\HW3_COP4367_AOlive16\WpfTwo\obj\Debug\WpfTwo.pdb

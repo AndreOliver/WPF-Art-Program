@@ -1,0 +1,6 @@
+﻿<Window x:Name="mainWindow" x:Class="WpfTwo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Adult Art TOY" Height="350" Width="525" WindowState="Maximized">
+    <Grid x:Name="rootGrid"/>
+</Window>
